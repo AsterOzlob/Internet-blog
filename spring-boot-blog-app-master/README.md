@@ -1,7 +1,5 @@
 # Blogging platform (made with Spring Boot)
 #### Simple blogging platform project I made as started to learn Spring framework.
-## Live Demo (runs on FreeBSD 12)
-https://tomcat.skaringa.dev/spring-blog-app/
 
 ## About the project
 Application made using:\
@@ -23,7 +21,6 @@ Spring Security authentication and authorization rules ensures that users only a
 Front-end made using Thymeleaf templates.
 
 Made an effort to write clean OOP code to my Date.past() best understanding, like separation of concerns and encapsulation of internal workings of the class to hide details from outside while providing a simple interface to work with a class and there should be no to little pain adding new functionality.\
-(<b>Please be forgiving it was my first Spring app and first steps into OOP</b>)
 
 ## How to set up the application
 
